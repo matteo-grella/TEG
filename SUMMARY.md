@@ -4,23 +4,6 @@
 * [Travel Eyeアプリ](x-assist-app.md)
 * [はじめに](getting-started.md)
 
-## Travel Monitor
-
-* [トラベルモニターの設定](travel-monitor/travel-monitor-1/README.md)
-  * [役割と責任](travel-monitor/travel-monitor-1/roles-and-responsibilities.md)
-  * [渡航前情報](travel-monitor/travel-monitor-1/pre-trip-information.md)
-  * [アラート](travel-monitor/travel-monitor-1/alerting-settings.md)
-* [トラベルモニターを使用する](travel-monitor/operating-the-travel-monitor/README.md)
-  * [渡航者](travel-monitor/operating-the-travel-monitor/travellers.md)
-  * [ステータスおよびアイコン](travel-monitor/operating-the-travel-monitor/travel-monitor-icons.md)
-  * [サイト](travel-monitor/operating-the-travel-monitor/sites.md)
-  * [アラートおよび特別なアラート](travel-monitor/operating-the-travel-monitor/alerts-and-special-alerts.md)
-* [よくある質問](travel-monitor/travel-monitor-1-1/README.md)
-  * [支援](travel-monitor/travel-monitor-1-1/untitled-1.md)
-  * [アラート](travel-monitor/travel-monitor-1-1/faq-travel-monitor.md)
-  * [許可](travel-monitor/travel-monitor-1-1/permissions.md)
-  * [データ](travel-monitor/travel-monitor-1-1/data.md)
-
 ## RISK MAP <a id="other"></a>
 
 * [リスクマップ](other/risk-map.md)
