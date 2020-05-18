@@ -12,7 +12,7 @@ description: MONITOREE SUS VIAJES
 
 Travel Eye Gold es una **plataforma para la gestión de riesgos en movilidad** que reconoce e informa sobre incidentes de seguridad en todo el mundo 24/7 e ofrece a los usuarios perfiles de riesgo de más de 200 países y ciudades. Además, la plataforma incluye varios niveles de riesgo y proveedores sanitarios a nivel mundial.
 
-![](.gitbook/assets/travel-eye-cover%20%285%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%286%29.JPG)
 
 ## FUNCIONES PRINCIPALES
 
