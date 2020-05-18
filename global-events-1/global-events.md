@@ -4,7 +4,7 @@ description: REAL-TIME INSIGHT TO RISK ON THE GROUND
 
 # Global Events
 
-![](../.gitbook/assets/ge-cover%20%286%29.JPG)
+![](../.gitbook/assets/ge-cover%20%287%29.JPG)
 
 ## KEY FEATURES
 
