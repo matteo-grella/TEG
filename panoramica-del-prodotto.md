@@ -8,7 +8,7 @@
 
 Travel Eye Gold è una **piattaforma di gestione del rischio di mobilità** che identifica e segnala gli incidenti di sicurezza in tutto il mondo 24 ore su 24, 7 giorni su 7, e fornisce agli utenti oltre 200 profili di rischio di paesi e città. Inoltre, la piattaforma include vari livelli di rischio e fornitori di servizi medici a livello globale.
 
-![](.gitbook/assets/travel-eye-cover%20%284%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%285%29.JPG)
 
 ## CARATTERISTICHE CHIAVE
 
