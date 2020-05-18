@@ -4,7 +4,7 @@ description: APERÇU EN TEMPS RÉEL DES RISQUES SUR LE TERRAIN
 
 # Événements mondiaux
 
-![](../.gitbook/assets/ge-cover%20%284%29.JPG)
+![](../.gitbook/assets/ge-cover%20%285%29.JPG)
 
 ## PRINCIPALES FONCTIONNALITÉS
 
