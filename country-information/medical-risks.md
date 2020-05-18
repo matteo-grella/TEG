@@ -8,7 +8,3 @@ description: ワクチン接種の必要性を判断
 
 ![&#x533B;&#x7642;&#x30EA;&#x30B9;&#x30AF;&#x306E;&#x6982;&#x8981;](../.gitbook/assets/p44-img01_axa%20%282%29.jpg)
 
-
-
-
-

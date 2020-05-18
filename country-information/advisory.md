@@ -8,11 +8,3 @@ description: 常に準備を備える
 
 ![&#x30A2;&#x30C9;&#x30D0;&#x30A4;&#x30B6;&#x30EA;&#x30FC;&#x306E;&#x8868;&#x793A;](../.gitbook/assets/p44-img02_axa.jpg)
 
-
-
-
-
-
-
-
-

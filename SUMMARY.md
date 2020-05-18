@@ -1,6 +1,6 @@
 # Table of contents
 
-* [TRAVEL EYE PLATINUM](README.md)
+* [TRAVEL EYE GOLD](README.md)
 * [Travel Eyeアプリ](x-assist-app.md)
 * [はじめに](getting-started.md)
 

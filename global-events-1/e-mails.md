@@ -10,5 +10,3 @@
 
 ![](../.gitbook/assets/e-mail-announcement.JPG)
 
-
-
