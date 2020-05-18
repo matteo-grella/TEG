@@ -10,7 +10,7 @@ description: TIPOS Y CAPAS
 
 El Mapa de Riesgo es el corazón de la información dinámica por país de la plataforma.
 
-![](../.gitbook/assets/rm_img01%20%282%29.jpg)
+![](../.gitbook/assets/rm_img01%20%283%29.jpg)
 
 Si hace zoom en el mapa, verá las calificaciones de riesgo EXOP incluso dentro de cada país. Muestra los riesgos en provincias y distritos, **incluso en ciudades y distritos de ciudades**. Si mira más de cerca las ciudades importante verá **áreas de riesgo más alto para los viajeros** marcadas en color violeta. Puede escoger que se muestre distinta información, **tipos de mapa** y **capas**.
 
