@@ -1,24 +1,24 @@
 ---
-description: MANAGE YOUR PERSONAL ACCOUNT
+description: 個人アカウントを管理する
 ---
 
-# User Profile
+# ユーザープロファイル
 
-## How can I manage my personal account?
+## 個人アカウントを管理するには
 
-The user profile of the platform is an important element. Here, users can manage their **personal account**. They can set their name, email and phone number that serve as main contact details for the platform in case of emergencies and any other information.
+本プラットフォームにおいて、ユーザープロファイルは重要な要素です。ユーザーはこのページで、**個人アカウント**を管理することが可能です。緊急時にこのプラットフォームにおける主要な連絡先情報となる名前、メールアドレス、電話番号や、その他の情報を登録します。
 
 {% hint style="danger" %}
-The platform will prioritise contact details of the user profile over contact details from automatically transferred travel data, as any data provided by the person/ traveller is assumed to be more precise.
+本プラットフォームは、渡航者個人が提供するデータがより正確であるという想定のもと、自動転送される渡航データに基づく連絡先よりも、ユーザープロファイルに記録された連絡先情報を優先して取り扱います。
 {% endhint %}
 
-In addition, users can select their preferred language and time zone. If user’s login via _username_ and _password_, they can also change their password here.
+さらに、ユーザーは優先言語やタイムゾーンを選択することができます。ユーザーがユーザーネームとパスワードでログインした場合には、こちらでパスワード変更も可能です。
 
-For additional safety they can also enable _two-factor authentication_ for their account. Users can also determine their personal country of employment in the user profile.
+安全性を高めるために、アカウントの二要素認証を設定することも可能です。さらにユーザーは、ユーザープロファイルにおいて、雇用国を設定することができます。
 
 {% hint style="info" %}
-Please note that a traveller does not receive PTI for this particular country if the PTI setting “ignore country of employment” is enabled.
+PTIの設定において「雇用国を含まない」が選択されている場合、渡航者は対象国のPTIを受信しないことに注意してください。
 {% endhint %}
 
-![User Profile View](../.gitbook/assets/userprofileview.jpg)
+![](../.gitbook/assets/user-profile%20%284%29.jpg)
 

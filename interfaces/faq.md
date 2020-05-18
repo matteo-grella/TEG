@@ -1,27 +1,25 @@
-# FAQ
+# よくある質問
 
-## How can I reset my login credentials?
+## ログイン認証情報をリセットするには？
 
-This depends on the login mechanism you use. If you use username and password just click “_Forgot your password?_” on the login page and follow the instructions. If you use SAML or email token, you don’t have login credentials. For email token login just start the process again to receive an email token link. Please note that your email domain in your company email address must be white-listed for using email token. You also need access to your company email address. In case of SAML, just click on the link provided by your company. For this to work you must have a valid company account and be connected to your company’s infrastructure.
+ご利用のログイン形式によって異なります。ユーザーネームとパスワードを使用している場合は、ログインページの「パスワードをお忘れですか？」をクリックし、指示に従ってください。SAMLや電子メールトークンを使用している場合、ログインの認証情報が存在しません。 電子メールトークンの場合は、トークンのリンクを受信するための手続を再度行ってください。貴社の電子メールアドレスのドメイン が電子メールトークンの使用にあたってホワイトリスト化されている必要があることに注意してください。会社のメールアドレスへのアクセスも必要となります。SAMLを使用している場合、会社から提供されたリンクをクリックしてください。そのためには有効な会社のアカウントを所持し、会社のインフラに接続されている必要があります。
 
-## Why am I not able to login?
+## ログインができない理由は？
 
-1. **Your account may be locked**. This can have several reasons. First, it can happen if you tried to login with the wrong credentials too often. In this case you will get unlock instructions via email automatically. Please follow them. If you didn’t receive them, just click “_Didn’t receive unlock instructions?_” on the login page.
-2. It is also possible that **you got disabled by you administrator** or the whole company got disabled \(e.g. your contract expired\). Please check with your administrator for help
+1. **アカウントがロックされている可能性があります。**これにはいくつかの理由があります。まず第一に、異なる認証情報で何度もログインを試みた際に発生します。この場合、自動的にアンロックするための説明を電子メール経由で受信します。記載された内容に従ってください。 もしメールを受信できなかった場合、ログインページの「アンロックの説明を受信しませんでしたか？」をクリックしてください。
+2. **管理者によって無効にされている**か、企業全体が無効化されている（契約期間の終了等）可能性があります。管理者に問い合わせてください。
 
-## How can I temporarily prevent a user from login without deleting him?
+## ユーザーを削除することなく、一時的にログインさせないようにするにはどうすればよいですか？
 
-Just go to the admin area to users and edit the user. There you find the check box to disable the user.
+管理画面からユーザー情報を編集してください。チェックボックスを確認し、ユーザーを無効化してください。
 
-## Why can I not register my trip?
+## なぜ渡航情報の登録ができないのですか？
 
-Only registered users of the platform can sign up for calendar tracking. If there is no user profile the platform administrator receives an email to invite the designated user to create an account.
+本プラットフォームに登録されたユーザーのみが、カレンダートラッキングのサインアップが可能です。ユーザープロファイルが存在しない場合、プラットフォームの管理者は、指定ユーザーを招待するために電子メールを受信します。
 
-## What can I do if I register a trip via calendar tracking but receive an error message?
+## カレンダートラッキングで渡航情報を登録したのに、エラーメッセージを受信した場合、どうすればよいですか？
 
-This can have multiple reasons. In general, the error message you received via email will tell you the exact error.
+これにはいくつかの理由が考えられます。通常は、電子メールでエラーメッセージを受信した場合、エラーの具体的な内容が記載されています。
 
-## What can I do if I register a trip via calendar tracking but receive an error message?
-
-This can have multiple reasons. In general, the error message you received via email will tell you the exact error. Adding the platform email address directly as a guest in the calendar application and do not forward the calendar event via email, is the most common error. In case of Microsoft Outlook do not use an appointment and forward it. **Create a meeting where you invite the platform directly to the meeting.**
+**注意事項 :** カレンダーアプリケーションにゲストとしてプラットフォームに直接追加したため、カレンダーイベントが電子メール経由で転送されない。これは最も頻繁に発生するエラーです。Microsoft Outlookの場合、予定表を使用せず、転送してください。会議を作成し、プラットフォームを直接会議に招待してください。
 

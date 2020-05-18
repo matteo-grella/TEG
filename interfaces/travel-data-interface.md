@@ -1,17 +1,13 @@
-# Travel Data Interface
+# 渡航データの連結
 
-## TRAVEL DATA INTERFACE
+## 渡航データの連結
 
-The extensive automation of the platform is of no use if no trips can be registered and thus monitored. Therefore, we make travel data integration as easy as possible and offer several options of travel data transfer into the platform. Depending on your company technical and travel booking setups, you can choose the option that fits best.
+渡航情報が登録されず、監視されなければ、プラットフォームの広範な自動化は役に立ちません。そのため、弊社は渡航データの統合手順を出来るだけ簡易化させており、プラットフォームへの渡航データの転送方法についていくつかのオプションを提供しています。貴社の技術や渡航予約の設定に応じて、最も適したオプションを選択することが可能です。
 
-### Automated transfer of travel data \(PNR Tracking/PNR Traveller Tracking\) – Integrate the platform into your travel booking process
+### 渡航データの自動転送（PNR追跡/PNR渡航者追跡）– プラットフォームを渡航予約プロセスに統合する
 
-Travel data can automatically be pushed into the platform when integrated into your existing travel data process. Once it is integrated, no additional manual effort is necessary. All bookings and changes will be automatically transferred to the platform, including cancellations. There are two possibilities to achieve that:
+渡航データは、既存の渡航データプロセスに統合された際に、自動的にプラットフォームへと移行します。いったん統合されれば、手入力を行う必要はありません。全ての予約や変更は、キャンセル情報も含めて自動的にプラットフォームへと転送されます。これを実現するには、2つの方法が考えられます：
 
-1. **Standing interfaces to the platform.** With this solution, you can directly connect your travel management systems to the platform via XML or REST.
-2. **Interfaces from your travel management system or travel agency.** We can connect to all travel management providers and systems, as well as travel agencies via individually programmed interfaces. 
-
-{% hint style="info" %}
-For more information, please ask _travelsecurity@exop-group.com_
-{% endhint %}
+1. **既存のインターフェースからプラットフォームへ。** この方法を用いれば、XMLやRESTを経由して、渡航管理システムを直接プラットフォームへと連結することができます。
+2. **貴社の渡航管理システムや旅行会社からのインターフェース。** 個別にプログラム化されたインターフェースを通じて、全ての渡航管理プロバイダーやシステム、および旅行会社に接続できます。 
 

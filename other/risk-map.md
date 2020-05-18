@@ -1,28 +1,28 @@
 ---
-description: TYPES AND LAYERS
+description: 種類およびレイヤーからリスクを可視化
 ---
 
-# Risk Map
+# リスクマップ
 
-![Don&#x2019;t use old maps to explore a new world](../.gitbook/assets/heatmapscreen.png)
+![](../.gitbook/assets/riskmap.JPG)
 
-## What is the Risk Map?
+## リスクマップとは
 
-The Risk Map is the heart of the platform’s dynamic country information.
+リスクマップは、各国の動的情報を示す上で中核を担う機能です。
 
-![Risk Map View](../.gitbook/assets/riskmap.jpg)
+![](../.gitbook/assets/rm_img01%20%281%29.jpg)
 
-Zooming into the map reveals the EXOP risk ratings even below country level. It shows the risk of governorates and provinces, **down to cities and even city districts**. Having a closer look at important cities will show violet-marked **areas of higher risk for travellers**. You can select to display different information, **map types** and **layers**.
+マップを拡大することで、国別指標よりも細かいレベルでEXOPのリスク評価を把握することが可能となります。州や県レベルでのリスクや、**都市さらには地区レベルでも**リスクが示されます。重要な都市に目を向けると、紫色で表示された地域が**渡航者にとってリスクがより高い地域**であることが明らかとなります。**マップの種類**や**レイヤー**など、異なる情報を選択して表示することも可能です。
 
-Using events selection and event visualisation, you can generate a professional risk profile of a region based on the security incidents in the risk categories of your interest and in a certain time frame.
+「事件の選択」と「事件の可視化」を使用することで、関心のあるリスクカテゴリーと特定の時期の治安事件の情報をもとにした、対象地域の専門的なリスクプロファイルを作成することが可能となります。
 
 {% hint style="info" %}
-It is recommended to navigate the map using the **search bar**, especially if you know exactly what you are looking for. Just enter the name of the city or other place you want to look into.
+特に調べたい内容を具体的に把握している場合は、**検索バー**を使用し、マップで確認することを推奨いたします。調べたい都市名やその他の地域名を入力するだけで操作可能です。
 {% endhint %}
 
-### HEAT MAP
+### ヒートマップ
 
-At one glance, the **heat map** shows you hot spots of risk. Defined by your filters, it shows you which areas are to be avoided and which areas require higher security measures. A threat that was acute three years ago does not necessarily have to be present today, which is why using the time filter is **imperative to get a clear answer to your questions.**
+**ヒートマップ**を一目見るだけで、リスクの頻発地域を把握することができます。 ユーザー自身で設定したフィルターに基づき、どの地域を避けるべきか、またどの地域でより高度な安全対策が必要となるかが示されます。3年前に深刻であった脅威が、今日まで存在しているとは限りません。そのため、時期による絞り込み機能を使用することは、**疑問に対する明確な回答を得るために不可欠**となります。
 
-![Risk Map with Heat Map activated](../.gitbook/assets/heatmap.jpg)
+![](../.gitbook/assets/risk-map-3.JPG)
 

@@ -1,14 +1,14 @@
 ---
-description: QUESTIONS ABOUT PERMISSIONS
+description: 許可に関する質問
 ---
 
-# Permissions
+# 許可
 
-## Can travellers see the travel monitor?
+## 渡航者はトラベルモニターを閲覧できますか？
 
-Users that are given permissions of the traveller group are not authorised to access the platform’s travel monitor.
+渡航者グループの許可を与えられているユーザーは、本プラットフォームのトラベルモニターを閲覧する権限を有しません。
 
-## Do travellers and managers receive the same alerts and special alerts?
+## 渡航者と管理者が受信するアラートおよび特別なアラートは同じものですか？
 
-Alerts and special alerts for managers are different than for travellers. Managers will receive additional information e.g. how many travellers have been affected by the particular incident, what is their respective status \(in a special alert\) etc.
+管理者が受信するアラートと特別なアラートは渡航者が受け取るものとは異なります。管理者は、特定の事件でどれだけ多くの渡航者が影響を受けているか、それぞれの渡航者のステータスはどうなっているか（特別なアラートの場合）、といった追加情報を受け取ります。 
 

@@ -1,8 +1,8 @@
 ---
-description: INFORMATION AT A GLANCE
+description: 一目で情報を伝える
 ---
 
-# Security Risk Icons
+# セキュリティリスク・アイコン
 
 ![](../.gitbook/assets/country-icons.png)
 

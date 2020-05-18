@@ -1,35 +1,33 @@
-# X-ASSIST App
+# Travel Eyeアプリ
 
-X-ASSIST is also available as **browser-based web application** and as **native mobile app**, providing you with all the powerful features of the Desktop version:
+Travel Eyeは、**ブラウザベースのウェブアプリ**か**ネイティブモバイルアプリ**として利用可能であり、後者にはデスクトップ版の全ての豊富な機能が提供されています：
 
-* **Emergency Call** – if you are in danger, you can reach EXOP Operations Centre 24/7
-* **Status Calls** – if a security incident occurs nearby, you will receive calls to check if you need help
-* **Alerting** - you will receive e-mails informing you about the latest security developments and incidents onground
-* **Pre-Trip Information** – you will receive the latest security and medical information before departure
-* **Travel Security Information** – you can access all relevant information of your travel destination at any time
+* **緊急通話** – 危険にさらされた場合にも、24時間年中無休でAXAオペレーションセンターにつながります
+* **ステータスコール** – 付近で治安事件が発生した場合、利用者は支援が必要かを確認するための電話を着信します
+* **アラート** - 最新のセキュリティ状況や現地で発生している事件を伝える電子メールを受信します
+* **渡航前情報** – 出発前に最新のセキュリティおよび医療情報を受け取ります
+* **トラベルセキュリティ情報** – ユーザーは常に渡航先に関連する全ての情報にアクセスすることが可能です
 
-![](.gitbook/assets/xassistapp.jpg)
+![](.gitbook/assets/axa-app.jpg)
 
-## Browser-based Web App
+## ブラウザベースのウェブアプリ
 
-The browser-based web app is the preferred option for companies that generally restrict the installation of apps on company devices. Without downloading the app from the stores, users can use all platform functionalities via the browser, including sharing of geolocation and the emergency button.
+ブラウザベースのウェブアプリは、通常PlayまたはApple Store経由でのダウンロードを許可していない企業に推奨されるオプションです。ストアからアプリをダウンロードしない場合、ユーザーはブラウザ経由でロケーション共有や緊急ボタンなどの全ての機能を利用することができます。 
 
-## Native App
+## ネイティブアプリ
 
-The X-ASSIST App for IOS and Android \([Play Store](https://play.google.com/store/apps/details?id=com.exop_group.xassist&gl=IT) or [App Store](https://apps.apple.com/gb/app/x-assist/id1489592901?l=it)\) offers the same functionalities as the desktop platform.
+IOSやAndroid対応のTravel Eyeアプリが利用可能です（Play StoreまたはApp Storeからダウンロード\)。TRAVEL EYEデスクトップアプリケーションの全ての機能を備えています。
 
-![](.gitbook/assets/unnamed.webp)
+![](.gitbook/assets/axa-app-store-screenshot.png)
 
-![X-ASSIST App \(Snapshoots\)](.gitbook/assets/exopapp.png)
+## アプリの起動
 
-## App Activation
+アプリを起動させる際には、以下の手順に従ってください：
 
-To activate the app, please do as follows:
+1. 通常通りにプラットフォームにログインし、ユーザープロファイルを開いてください。画面左側の「Mobile App」をクリックします。 
+2. モバイル機器にアプリをインストールし、起動させます。アプリの初期画面に8文字の認証コードが表示されます。  
+3. ユーザープロファイル内の空欄に「認証コード」を入力し、「認証」をクリック。 
+4. ご利用のモバイル機器でアプリに永続的にログインされます。
 
-1. Log into the platform as you usually do and open your user profile. Click „_Mobile App_“ on the left side of the screen. 
-2. Install and tart the app on your mobile device. The app welcome screen shows an 8-letter authorisation code. 
-3. Enter the code in the field „_Authorisation code_…“ in your user profile click „_Authorise_“. 
-4. You are now permanently logged into the app on your mobile device.
-
-![App Activation](.gitbook/assets/appactivation.png)
+![](.gitbook/assets/axa-app-travel-eye-user-backend-eng%20%281%29.png)
 

@@ -1,36 +1,28 @@
 ---
-description: QUESTIONS ABOUT GLOBAL EVENTS
+description: グローバルな事件に関する質問
 ---
 
-# FAQ
+# よくある質問
 
-## What is an announcement, a security information, an alert and a special alert?
+## 通知、セキュリティ情報、アラートおよび特別なアラートとは何ですか？
 
-### **ANNOUNCEMENT**
+### **通知**
 
-An announcement is a security-related incident that can be expected in the future, such as strikes and demonstrations.
+通知とは、ストやデモなど、今後発生が見込まれるセキュリティ関連の事件を伝達するものです。
 
-### SECURITY INFORMATION
+### セキュリティ情報
 
-A security information is an incident information you receive via email when setting a favourite on the global events page or for a specific country on the country risks page. Once the system detects an incident that matches your favourite, you will receive an email with the incident information.
+セキュリティ情報/アラートは、グローバルな事件のページでお気に入り設定を行うか、カントリーリスクページで特定の国を設定した場合に、電子メールで受信する事件情報を指します。ユーザーのお気に入り情報に合致する事件をシステムが検出した際に、事件情報に関する電子メールを受信することになります。 
 
-{% hint style="info" %}
-Please note that security information do not include recommendations.
-{% endhint %}
+さらに、お気に入りに合致する全ての事件に関する**定期的なアラートダイジェスト**の受信設定を行うこともできます。
 
-Additionally, you can schedule a **periodic alert digest** of all events which match this favourite.
+![](../.gitbook/assets/global-events-faq.JPG)
 
-![SET A FAVOURITE ALERT AND RECEIVE THE SECURITY INFORMATION](../.gitbook/assets/setafavourite.jpg)
+### アラート
 
-### ALERT
+アラートはトラベルモニターの設定と結びついており、グローバルな事件のお気に入り登録とは結びついていません。アラートとは、渡航者、サイトおよび事業活動に影響を及ぼす可能性がある事件を伝える電子メールです。 アラートは、特定の渡航者あるいは会社施設の場所に関連するものです。アラート対象の事件ごとに、システムは異なる電子メールを送信します。1つは渡航者向け、もう1つは管理者向けの内容となっています。
 
-An alert is an email information about an incident that has possible effects on travellers, sites or business activity. Alerts are related to a specific traveller or a company site location. For each incident that triggers an alert, the system sends different emails – one is tailored to the traveller, the other is tailored to the manager.
+### **特別なアラート**
 
-**SPECIAL ALERT**
-
-In the event of a special alert, it cannot be ruled out that a traveller is directly affected by a security incident that can pose a threat to life and health. The platform directly contacts affected travellers via phone call in order to detect their status. In addition, the traveller receives the incident information via email, including behavioural guidelines to reduce the risk in the vicinity of the event. For each incident that triggers a special alert, the system sends different emails – one is tailored to the traveller, the other is tailored to the manager and includes continuous status updates.
-
-{% hint style="danger" %}
-Please note that it cannot be ruled out if a traveller is **directly affected** by a security incident that can pose a threat to life and health
-{% endhint %}
+特別なアラートは、トラベルモニターの設定と結びついています。特別なアラートが発信される際には、渡航者が生命や健康に脅威をもたらす治安事件によって、直接的な影響を受けている可能性は否定できません。本プラットフォームは、渡航者の状況を把握するために、影響を受けている渡航者に対して、直接電話で連絡を取ります。さらに、渡航者は事件がもたらすリスクを低減するための行動ガイドラインを含む、事件の情報を電子メールで受信します。特別なアラートの対象となる事件ごとに、システムは異なる電子メールを送信します。1つは渡航者向け、もう1つは管理者向けの内容であり、継続的な更新情報が含まれています。
 

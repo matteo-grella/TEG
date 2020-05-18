@@ -1,18 +1,18 @@
 ---
-description: QUESTIONS ABOUT DATA QUALITY AND SECURITY
+description: データ品質と安全性についての質問
 ---
 
-# Data
+# データ
 
-## What happens with travellers at the end of the trip? Will they be deleted automatically?
+## 渡航終了後には、渡航者の情報はどうなりますか？渡航者の情報は自動的に消去されますか？
 
-Travel data can be accessed until 30 days after the end of the respective trip, if the respective time frame is selected using the custom range button. Please note that by default, only current travels are displayed.
+渡航データは、各渡航日程の終了後30日間はアクセス可能です。渡航日程の検索範囲をボタンで指定することで、閲覧することができます。デフォルトの設定では、現在の渡航者の情報のみが表示されることに注意してください。 
 
-## How long can I see if a traveller was affected by a special alert?
+## 渡航者が特別なアラートの影響を受けた場合、どのぐらいの期間、情報の閲覧が可能ですか？
 
-The data is being deleted after 6 months.
+データは6カ月後に削除されます。
 
-## Can I do anything to improve data quality?
+## データ品質向上のために出来ることはありますか？
 
-Over 70% of traveller data we receive is somehow incorrect. Spelling mistakes in names, missing or wrong phone numbers are the biggest challenges. We cannot contact travellers correctly if we do not have their correct emails or phone numbers. What can you do? Make it mandatory that travellers always enter and update their contact data in the platform’s user profile. Also, if travellers are entering their correct name, phone number and email address during a travel booking, this will help significantly. For travellers that are travelling to high risk countries, make sure they use the calendar tracking as an addition. This way, based on a more precise localisation, both preventive and reactive measures will target the traveller more effectively.
+弊社が受信する70%以上の渡航データには、何かしら不正確な情報が含まれています。名称のスペルミスや、電話番号の記入漏れや誤記入は、最も頻繁に起きる問題です。正確なメールアドレスや電話番号の情報がなければ、弊社が渡航者に適切に連絡を取ることができません。この問題に対して出来ることは、渡航者が常にプラットフォームのユーザープロファイル上で、連絡先のデータを常に入力・更新するよう徹底していただくことです。これはさらに、渡航予約の際に渡航者が名前、電話番号、メールアドレスを誤って入力した場合に、大きく役立ちます。リスクの高い国への渡航を予定している渡航者は、加えてカレンダートラッキングを確実に使用するようにしてください。そうすることで、より正確な位置情報をもとに、渡航者に対してより効果的な予防措置や対応策を提供することができます。 
 

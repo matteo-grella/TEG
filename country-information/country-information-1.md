@@ -1,34 +1,33 @@
-# FAQ
+---
+description: カントリーリスクに関する質問
+---
 
-## How do country information help risk prevention?
+# よくある質問
 
-Country information provide a first overview about the risk profile of a country. Reading the information will give you a first indication if travelling to the place is dangerous for your travellers or not. It also recommends the implementation of specific risk mitigation measures to reduce the risks for your travellers and fulfil your duty of care.
+## カントリーリスク情報はリスク防止にどのように役立つのですか？
 
-## Where do the data come from?
+カントリーリスクは、その国のリスクプロファイルに関する概要を提示します。情報を読むことで、その地域へと渡航することが、渡航者にとって危険かどうかを瞬時に判断することが可能となります。また、渡航者のリスクを軽減し、渡航者ケアの義務を果たすために必要となる、特定のリスク軽減策についてもアドバイスしています。
 
-Country and city risk layers as well as incidents are the outcome of the EXOP team’s work. All the security information is peer-reviewed by analysts. Business and corruption layers are derived from publicly available sources \(e.g. World Bank etc.\). The foreign ministry digest is calculated by an average of the respective country risk ratings by key foreign ministries incl. UK, US, Germany, Australia, France etc.
+## データの情報源は？
 
-## Is the country information up to date?
+国や市ごとのリスクレイヤーと出来事は、AXAチームによる情報に基づいています。全ての情報は、アナリストによって精査されています。ビジネスパフォーマンスおよび贈収賄スケールに関する指数は、公表データ（世界銀行など）に基づいています。外務省のダイジェスト情報は、カナダ、米国、ドイツ、オーストラリア、アイルランド、ニュージーランドなどの主要外務省による各国のカントリーリスク評価の平均値によって計算されています。
 
-Our aim is to provide updates in real time. All content is updated automatically and in all languages as soon as key information e.g. security risk levels have been verified and changed by EXOP’s analysts. We have no editors writing all these texts.
+## 国別情報は最新の内容となっていますか？
 
-## Can I control what content my travellers can see?
+弊社の目的は、リアルタイムで最新情報を提供することです。セキュリティリスクレベルなどの主要な情報は、リスクアナリストによる確認・変更を経てすぐに、全てのコンテンツが自動で全ての言語で更新されます。これらの全てのテキストを書いている編集者は存在しません。 
 
-Users with administrator permissions can define the content each user group \(traveller, manager, admin\) has access to, in the admin panel. Usually, travellers have no access to duty of care recommendations, business risks and liability recommendations.
+## 渡航者が閲覧できる情報の管理は可能ですか？
 
-## How can I change the language?
+管理者権限を持つユーザーは、管理画面において各ユーザーグループ（渡航者、管理者、担当者）がアクセス可能なコンテンツを設定することができます。渡航者は通常、注意義務、ビジネスリスクおよび責任条項にアクセスすることができません。
 
-The platform’s content including all communication \(email and phone calls\) is available in several languages, among them French, German, English and many more depending on your company set up. Users can select their own language: They just need to go to their user profile and select the language they prefer.
+## 言語を変更するには？
 
-## What is the difference between country information alert and the alerting in the travel monitor settings?
+全てのコミュニケーション手段（電子メールや電話連絡）を含む本プラットフォームのコンテンツは、フランス語、ドイツ語、英語、スペイン語、イタリア語、日本語をはじめ、会社の設定次第ではさらに多くの言語にも対応しています。ユーザーは希望言語を選択することができます。ユーザープロファイルにアクセスし、希望する言語を選択するだけで変更が完了します。
 
-You can find the term “_alert_” for different kinds of information in the platform:
+## セキュリティ情報とトラベルモニター設定におけるアラートはどう違うのですか？
 
-* Country information alerts report events in the country regardless of your location or your company set up.
-* Country information alerts do not trigger any emergency procedures or calls.
-* Country information alerts do not include behavioural guidelines for travellers. Country information alerts serve as a source of information about current developments.
+本プラットフォームでは、様々な種類の情報において「アラート」という語句を目にすることになります：
 
-## What is the difference between risk level change alert in the country information and risk level change alert in the travel monitor settings?
-
-When you activate the risk level change alert in the travel monitor alerting settings, your report recipients will receive email notifications upon risk level escalations or de-escalations in all countries worldwide. In addition, any user can register to receive those notifications on risk level changes for one or several specific countries. The individual risk level change alert is set up on the country information page. It will be sent to the email address of the user profile.
+* セキュリティ情報のアラートは、滞在先や会社の設定とは関係なく、国内で発生した事件を報告します。セキュリティ情報のアラートは、緊急時の手順や通話を要しません。
+* セキュリティ情報のアラートは、特定の国における現在の動向を伝える情報源となります。
 

@@ -1,42 +1,35 @@
-# Travel Data Integration
+# 渡航データの統合
 
-Many times, your travellers cannot be monitored properly because you don’t know where they are? Why not? Incomplete booking data, spelling mistakes in names, missing or wrong phone numbers and email addresses make tracking and contacting your travellers difficult. So how can we solve this problem? We provide two options to solve this problem:
+### ナビゲーションバー内のチェックインボタン
 
-1. a manual trip registration
-2. a trip registration through your personal calendar
+ナビゲーションバーのチェックイン機能は、渡航者の位置をプラットフォームへと送信し、ユーザープロファイルの電話番号とメールアドレスを基本とする渡航者の情報をプラットフォームの監視およびアラートシステムへと統合するための最も迅速かつ正確な方法であるといえます。ユーザーは、直近のチェックインで送信された座標情報により正確な位置を監視されます。管理者は、トラベルモニターで渡航者の情報や位置を確認することができます。7日間位置情報が更新されなかった場合、監視は終了します。例えばPNRからは到着空港の場所しか把握できませんが、この機能は、位置情報が不正確な場合に大きく役立ちます。さらに、別の渡航情報の登録（カレンダーやPNR登録）を行う時間がなかった場合、ボタンを押すだけで、渡航者は即座に本プラットフォームによる監視およびアラートのサービスを受けることが可能となります。 
 
-## MANUAL TRIP REGISTRATION
+### カレンダー渡航登録
 
-With the first option you can manually register your trip easily through the platform. All you need is your trip details, e.g. flight or project/office site or hotel location.
+多くの場合において、渡航者の居場所が分からないために、適切に管理することができません。なぜできないのでしょうか？不完全な予約データ、名前の記載ミス、電話番号やメールアドレスの記入漏れや誤記入があると、渡航者の追跡や連絡が困難となります。では、どうすればこの問題は解決されるでしょうか？弊社はこの問題を解決するための効率的なオプションを提供しています。それは、パーソナルカレンダーから渡航情報を登録することです。
 
-It is recommended to use the search bar to enter the accommodation location address of your stay. You can also move the pin on the map to the location you want to be monitored at during your stay.
+カレンダー登録により、渡航者は世界各地のアポイントメントや渡航情報とプラットフォームを連携することが可能となります。渡航者は、プラットフォームにビジネス会議を伴う3日間の市中移動や郊外のリスクが高いプロジェクト現場への訪問、路上での短時間の立ち寄りの用件などを追加することができます。このプラットフォームは、治安事件が発生した時には、渡航者に迅速に通知し、危険にさらされていると判断した際に緊急対応を実行するなど、渡航者を支援いたします。
 
-![Manual Trip Registration](../.gitbook/assets/manualtripregistration.png)
+![](../.gitbook/assets/calendar-trip-registration%20%281%29.jpg)
 
-{% hint style="success" %}
-A huge advantage: you can also register a trip for your colleagues and team members. The only requirement is that your colleagues have a platform account.
-{% endhint %}
+**どのような手順になっているのでしょうか？** （この文章は渡航者に転送されることを前提に書かれていることに留意してください）
 
-## CALENDAR TRIP REGISTRATION
+渡航情報を、オフィスのデスクトップPCあるいはスマートフォンを用いて、個人カレンダーのアプリケーション経由で登録するだけです。
 
-{% embed url="https://vimeo.com/278137533" caption="" %}
-
-The second option is the calendar registration that allows your travellers to invite the platform to any of their appointments and trips worldwide. Travellers can invite the platform to their 3-day city trip with business meetings as well as to their visit to a project site located in a rural high-risk area and even to short stops along the road. The platform will be your travellers’ companion that informs them proactively if a security incident occurs and initiates emergency procedures, if it finds them in danger.
-
-![Calendar Trip Registration](../.gitbook/assets/calendartripregistration.png)
-
-Simply register your trip through your personal calendar application in two simple steps– at the office with your desktop PC or on the go with your smartphone.
-
-1. **Create an appointment** in your calendar for the duration of your trip, name your destination and invite the company specific email address as an attendee. You will find the email address in the platform under Calendar Trip Registration. 
-2. Within a few moments you will receive an email with a link to **confirm the registration**. This link leads to a confirmation page where you can directly add or update your location and contact details, such as your mobile number. Finally confirm the trip ... and done!
-
-To summaryze the benefits of using the calendar tracking :
-
-* **QUICK — In ONLY A FEW Steps:** Register trips in two easy steps wherever you are – at the office with your desktop PC or on the go with your smartphone. Just create an appointment for the duration of your trip, invite the platform as an attendee and confirm the trip registration. 
-* **EASY — Simply using YOUR PERSONAL CALENDAR:** You can register your trip easily through your personal calendar application. The platform supports any common calendar applications, including Outlook, iCal and Gmail.
-* **FLEXIBLE — Your flights change? Just adapt your calender event**: You can postpone, extend or cancel the appointment in your calendar at any time. Your changes are forwarded to the platform immediately.
+1. カレンダーの予定表から渡航期間内に**アポイントメントを作成し、**目的地を登録し、出席者として会社の特定のメールアドレスを招待してください。プラットフォーム内のカレンダー渡航登録からメールアドレスを確認することができます。
+2. しばらくすると、**登録を確認する**リンクが記載された電子メールを受信します。このリンクをクリックすると、滞在地や携帯電話の番号などの連絡先を直接追加・更新する確認ページが表示されます。最後に渡航情報を確認すれば、全ての手順が終了です。
 
 {% hint style="info" %}
-Please note that only travellers that have a platform account and can thus be identified, are entitled to use calendar tracking.
+メールアドレスをご自身の連絡先情報に保存することも可能です。
+{% endhint %}
+
+カレンダートラッキングの利点 :
+
+* **迅速 — ほんの数回の作業で可能:** オフィスのデスクトップや移動中のスマートフォンなど、どこからでも簡単な2ステップで渡航情報の登録が可能です。渡航中のアポイントメントを作成し、出席者としてプラットフォームを招待し、渡航情報の登録を確認するだけです。
+* **簡単 — 個人カレンダーを使用するだけ:** 個人カレンダーアプリケーションを通じて、渡航情報を簡単に登録することができます。本プラットフォームは、Outlook、iCal、Gmailなどの一般的なカレンダーアプリケーションにも対応しています。
+* **柔軟 — フライト変更発生時には、カレンダーのイベントを調整するだけ**: カレンダー上でアポイントメントをいつでも延期、延長、キャンセルすることができます。変更内容は即座にプラットフォームへと反映されます。
+
+{% hint style="info" %}
+本プラットフォームのアカウントを持ち、承認された渡航者のみが、カレンダートラッキングの利用が可能であることに注意してください。
 {% endhint %}
 

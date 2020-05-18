@@ -1,61 +1,64 @@
 # Table of contents
 
-* [Travel EYE - GOLD](README.md)
-* [X-ASSIST App](x-assist-app.md)
-* [Getting Started](getting-started.md)
+* [TRAVEL EYE PLATINUM](README.md)
+* [Travel Eyeアプリ](x-assist-app.md)
+* [はじめに](getting-started.md)
 
 ## Travel Monitor
 
-* [Travel Monitor](travel-monitor/travel-monitor-1.md)
-* [Assistance Settings](travel-monitor/assistance-settings.md)
-* [Roles and Responsibilities](travel-monitor/roles-and-responsibilities.md)
-* [Pre-trip Information](travel-monitor/pre-trip-information.md)
-* [Alerting](travel-monitor/alerting-settings.md)
-* [Sections](travel-monitor/sections/README.md)
-  * [Travellers](travel-monitor/sections/travellers.md)
-  * [Sites](travel-monitor/sections/sites.md)
-  * [Alerts and Special Alerts](travel-monitor/sections/alerts-and-special-alerts.md)
-* [Status and Icons](travel-monitor/travel-monitor-icons.md)
-* [FAQ](travel-monitor/travel-monitor-1-1/README.md)
-  * [Assistance](travel-monitor/travel-monitor-1-1/untitled-1.md)
-  * [Alerting](travel-monitor/travel-monitor-1-1/faq-travel-monitor.md)
-  * [Permissions](travel-monitor/travel-monitor-1-1/permissions.md)
-  * [Data](travel-monitor/travel-monitor-1-1/data.md)
+* [トラベルモニターの設定](travel-monitor/travel-monitor-1/README.md)
+  * [役割と責任](travel-monitor/travel-monitor-1/roles-and-responsibilities.md)
+  * [渡航前情報](travel-monitor/travel-monitor-1/pre-trip-information.md)
+  * [アラート](travel-monitor/travel-monitor-1/alerting-settings.md)
+* [トラベルモニターを使用する](travel-monitor/operating-the-travel-monitor/README.md)
+  * [渡航者](travel-monitor/operating-the-travel-monitor/travellers.md)
+  * [ステータスおよびアイコン](travel-monitor/operating-the-travel-monitor/travel-monitor-icons.md)
+  * [サイト](travel-monitor/operating-the-travel-monitor/sites.md)
+  * [アラートおよび特別なアラート](travel-monitor/operating-the-travel-monitor/alerts-and-special-alerts.md)
+* [よくある質問](travel-monitor/travel-monitor-1-1/README.md)
+  * [支援](travel-monitor/travel-monitor-1-1/untitled-1.md)
+  * [アラート](travel-monitor/travel-monitor-1-1/faq-travel-monitor.md)
+  * [許可](travel-monitor/travel-monitor-1-1/permissions.md)
+  * [データ](travel-monitor/travel-monitor-1-1/data.md)
 
 ## RISK MAP <a id="other"></a>
 
-* [Risk Map](other/risk-map.md)
+* [リスクマップ](other/risk-map.md)
 
 ## Global Events <a id="global-events-1"></a>
 
-* [Global Events](global-events-1/global-events.md)
-* [Events List](global-events-1/events-list.md)
-* [Multiple Views](global-events-1/multiple-viewes.md)
-* [E-mails Template](global-events-1/e-mails.md)
-* [FAQ](global-events-1/faq.md)
+* [グローバルな事件](global-events-1/global-events.md)
+* [事件および出来事](global-events-1/events-list.md)
+* [多画面表示](global-events-1/multiple-viewes.md)
+* [事件に関する電子メール情報](global-events-1/e-mails.md)
+* [よくある質問](global-events-1/faq.md)
 
-## Country Information
+## Country Risks <a id="country-information"></a>
 
-* [Country Information](country-information/country-risk-assessment.md)
-* [Executive Summary](country-information/executive-summary.md)
-* [Risk Overview](country-information/risk-overview.md)
-* [Medical Risks](country-information/medical-risks.md)
-* [Advisory](country-information/advisory.md)
-* [Charts](country-information/charts.md)
-* [Favorite Countries](country-information/favourite-countries.md)
-* [Security Risk Icons](country-information/icons.md)
-* [FAQ](country-information/country-information-1.md)
+* [カントリーリスク](country-information/country-risk-assessment.md)
+* [エグゼクティブサマリー](country-information/executive-summary.md)
+* [リスク概要](country-information/risk-overview.md)
+* [医療リスク](country-information/medical-risks.md)
+* [アドバイザリー](country-information/advisory.md)
+* [チャート](country-information/charts.md)
+* [お気に入り登録](country-information/favourite-countries.md)
+* [セキュリティリスク・アイコン](country-information/icons.md)
+* [よくある質問](country-information/country-information-1.md)
+
+## Medical Network
+
+* [医療ネットワーク](medical-network/medical-network.md)
 
 ## ADMIN AREA <a id="admin-area-1"></a>
 
-* [Admin Area](admin-area-1/admin-area.md)
-* [User Profile](admin-area-1/user-profile.md)
-* [FAQ](admin-area-1/faq-1.md)
+* [管理画面](admin-area-1/admin-area.md)
+* [ユーザープロファイル](admin-area-1/user-profile.md)
+* [よくある質問](admin-area-1/faq-1.md)
 
 ## INTERFACES
 
-* [User Login](interfaces/interfaces-1.md)
-* [Travel Data Interface](interfaces/travel-data-interface.md)
-* [Travel Data Integration](interfaces/travel-data-integration.md)
-* [FAQ](interfaces/faq.md)
+* [ユーザーログイン](interfaces/interfaces-1.md)
+* [渡航データの連結](interfaces/travel-data-interface.md)
+* [渡航データの統合](interfaces/travel-data-integration.md)
+* [よくある質問](interfaces/faq.md)
 

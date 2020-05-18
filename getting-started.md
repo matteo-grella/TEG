@@ -1,24 +1,30 @@
-# Getting Started
+# はじめに
 
-## DISCOVER THE PLATFORM
+## プラットフォームを知る
 
-There are several basic features that are always visible on the top of each page - the **navigation bar**, the **emergency button** and, on the main pages, the **screen splitter**.
+基本的な機能が数多く存在し、各ページの上部に常時表示されています。具体的には、**ナビゲーションバー**、**緊急ボタン**およびメインページの**画面分割**が挙げられます。
 
-### NAVIGATION BAR
+### ナビゲーションバー
 
-Start using the platform by checking out the navigation bar. Click/touch the respective icon and get direct access to the **Travel Monitor,** **Risk Map**, **Global Events**, **Country Information** as well as to the **Travel Registration** options. Finally, you can access your profile to administer your personal account or those of others, depending on your permissions.
+まずはナビゲーションバーをチェックし、プラットフォームの利用を開始します。それぞれのアイコンをクリックまたはタッチし、**緊急ボタン/チェックイン機能、トラベルモニター、リスクマップ、グローバルな事件、カントリーリスク**および**渡航予定登録**オプションを利用します。さらには、プロフィールページにアクセスし、管理権限に基づき個人アカウントや他ユーザーのアカウントを管理することも可能です。
 
-![](.gitbook/assets/navbar.jpg)
+![](.gitbook/assets/getting-started_img01%20%282%29.jpg)
 
-### EMERGENCY BUTTON
+### 緊急ボタンおよびチェックイン機能
 
-In critical situations, the traveller can push the emergency button and will be automatically connected with the Operation Center. In addition, the exact location of the traveller will be transmitted to the Operation Center. Therefore, even if the call is disrupted, the Operation Centre will know the location of the traveller and be able to handle the case as an emergency. This feature is specifically important for travellers that are in a life-threatening situation and not able to speak on the phone. The emergency button can serve as silent alarm; simply pushing the button will immediately transmit the traveller’s location to the Operation Centre and trigger subsequent emergency procedures.
+現在地を共有し、支援を要請する
+
+緊急時には、渡航者はボタンを押すことで、自動的に指定のAXAオペレーションセンターに接続されます。さらには、渡航者の正確なロケーションがオペレーションセンターへと伝達されます。そのため、電話回線が途絶していても、オペレーションセンターは渡航者の場所を把握し、緊急時の対応を進めることが可能となります。この機能は、渡航者の生命が危険にさらされており、電話での通話が困難な状況において、特に重要となります。緊急ボタンは、**サイレント・アラーム**として機能します。ボタンを押すだけで、即座に渡航者の現在地がオペレーションセンターに伝達され、続いて緊急時対応が進められることになります。緊急支援オプションに関する詳細情報については、トラベルモニターのチャプター内の支援のセクションを参照してください。
+
+チェックイン 
+
+チェックイン機能により、渡航者の情報が最も迅速かつ正確に本プラットフォームへと伝達され、渡航者はプラットフォームの監視およびアラートシステムへと、電話番号やメールアドレスなどのユーザープロファイル情報が統合されることになります。ユーザーは、直近でチェックインを行った際に送信された正確な座標情報により管理されます。管理者は、トラベルモニター上で、渡航者に関する情報や現在地を閲覧することが可能です。7日間位置情報に更新がなければ、監視は終了します。 例えばPNRからは到着空港の場所しか把握できませんが、この機能は、位置情報が不正確な場合に大きく役立ちます。さらに、別の渡航情報の登録（カレンダーやPNR登録）を行う時間がなかった場合、ボタンを押すだけで、渡航者は即座に本プラットフォームによる監視およびアラートのサービスを受けることが可能となります。
 
 {% hint style="info" %}
-For further information on emergency assistance options, please see the section assistance settings in the travel monitor chapter.
+緊急支援オプションについての詳細情報については、トラベルモニターの支援のセクションを参照してください。
 {% endhint %}
 
-### SCREEN SPLITTER / VIEWS
+### 画面分割 / 表示
 
-Depending on the size of the screen you use, there are different screen splits available. As you navigate through the different pages and use the platform you can adjust the screen views to your preferences with one or two clicks on the view mode icon, always placed in the upper left corner of the screen. In all mobile views you can switch from the navigation panel to map view with one click on the map icon and back.
+ご利用の画面のサイズに応じて、異なる画面分割方法を選択いただけます。異なるページを閲覧していたり、プラットフォームを使用している際には、画面の左上角に位置するビューモードのアイコンを1、2回クリックするだけで、画面表示をお好みの状態に調整することができます。モバイルの画面においては、マップ上のアイコンをワンクリックし、戻るだけでナビゲーションパネルからマップ表示へと切り替えることが可能です。
 

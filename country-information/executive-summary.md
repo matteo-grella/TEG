@@ -1,12 +1,12 @@
 ---
-description: STRAIGHT TO THE POINT
+description: 簡潔にリスクの要点を伝える
 ---
 
-# Executive Summary
+# エグゼクティブサマリー
 
-The summary provides an overview of past and future security incidents in the country. You can directly screen the four latest incidents, get a picture of the incident frequency over the past months and see the most important incident categories for that country.
+エグゼクティブサマリーは、その国の過去および未来の治安事件に関する概要を伝えます。 ユーザーは直近4件の事件を即座に目にし、過去数カ月の事件の発生頻度から全体像を理解するとともに、その国にとって最も重要な事件カテゴリーを把握することができます。
 
-This will help you better understand security developments on the ground and the biggest threats to your travellers. With the help of the “take care of” section, you can immediately see which topics need to be considered before and during a trip.
+これにより、ユーザーは現地の治安状況や渡航者にとっての最大の脅威に関する理解を深めることが可能となります。「世話をする」セクションを確認することで、渡航前と渡航中に検討すべきテーマを即座に判断することができます。 
 
-![EXECUTIVE SUMMARY \(FULLSCREEN\)](../.gitbook/assets/executivesummarywithoutmap.png)
+![](../.gitbook/assets/p43-img01_axa.jpg)
 

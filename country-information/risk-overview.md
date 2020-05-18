@@ -1,10 +1,10 @@
 ---
-description: ALWAYS ONE STEP AHEAD
+description: 常に一歩先へ
 ---
 
-# Risk Overview
+# リスク概要
 
-Gain a better understanding of the security situation in a country. Crime, civil unrest, terrorism, general risks and governance are all key categories to be assessed to provide a basic country risk portfolio. In addition, our experts identify urban risks for each country’s most relevant cities and add new information on a monthly basis, even revealing no-go areas for travellers.
+対象国の治安状況に対する理解を深めることは重要です。基本的なカントリーリスクポートフォリオを作成する上で、犯罪、市民の不安、テロリズム、一般的なリスク、ガバナンスはいずれも、評価の対象となる主要カテゴリーといえます。さらに、弊社のエキスパートは、各国の最も重要な都市におけるリスクを特定し、渡航者の立ち入り禁止区域に関する内容も含む、新しい情報を毎月更新しています。
 
-![CITY SECURITY RISK VIEW \(RIO DE JANEIRO\)](../.gitbook/assets/cityriskoverview.png)
+![](../.gitbook/assets/p43-img02_axa%20%283%29.jpg)
 

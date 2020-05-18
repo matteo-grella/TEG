@@ -1,32 +1,32 @@
 ---
-description: USERS LOGIN AND TRAVELLERS INTEGRATION
+description: ユーザーログインおよび渡航者情報の統合
 ---
 
-# User Login
+# ユーザーログイン
 
-## LOGIN OPTIONS – Choose your login procedure
+## ログインオプション – ログイン手順を選択する
 
-The platform makes the login process easy for your employees. Depending on the product you use, the platform offers various options. With a BASIC access, the administrator can invite new users to the platform, or simply add new users directly out of the admin area. The default login for all products is via username and password.
+本プラットフォームは、従業員の方のログイン手順が円滑に進められるよう設計されており、様々なオプションを提供しています。最初のオプションとして、管理者は新規ユーザーをプラットフォームへと招待するか、単純に管理画面から新規ユーザーを追加する方法があります。全ての商品のデフォルトのログイン方法は、ユーザーネームとパスワードの入力で行います。
 
-![](../.gitbook/assets/admin-area.jpg)
+![](../.gitbook/assets/interfaces%20%283%29.jpg)
 
-The ADVANCED platform version offers you two additional interfaces for integrating new users and logins.
+新規ユーザーとログインを統合するための2つの追加オプションがあります。
 
-## SIGN-ON INTERFACES
+## シングルサインオン・インターフェース
 
-### Email token
+### 電子メールトークン
 
-With the Single Sign-on authentication based on email tokens, all employees who have a personal company email address are given access to the platform without any username or password. For this purpose, a special login page for your company exists. A user will enter his company email address and will receive a login link valid for 24 hours via email to the same email address. You will find this link in the admin area under organisation. Here you also specify a whitelist of allowed company domains for which the login is possible.
+電子メールトークンを用いたシングルサインオン認証を用いることで、個人の会社メールアドレスを持つ全ての従業員が、ユーザーネームやパスワードなしでプラットフォームへアクセスすることが可能となります。これを実行するための企業向けの特別なログインページが存在します。ユーザーは会社のメールアドレスを入力することで、そのメールアドレス宛に24時間有効なログインリンクを受信します。このリンクは、企業の管理画面で確認可能です。ここでは、ログインが可能となる会社のドメイン に関するホワイトリストも指定します。
 
 {% hint style="success" %}
-Top advantage: This procedure is technically fast and easy to implement. Everyone with a company email address can login to the system, without a username and password that have to be saved and remembered.
+最大の利点: この方法は技術的も早く実施でき、簡単です。会社のメールアドレスを持つ人は誰でも、保存や変更が必要となるユーザーネームやパスワードがなくても、このシステムへとログインが可能です。
 {% endhint %}
 
 ### **SAML 2.0**
 
-With the single sign-on procedure based on SAML 2.0, the login is integrated into the company’s user authentication process. Once a user is authenticated to the company’s infrastructure, the user will automatically login to the platform by simply clicking a specified link on the company intranet. In order to apply SAML 2.0, you specify the configuration for SAML in the admin area under organisation and your IT can integrate the platform into your company intranet.
+SAML2.0に基づくシングルサインオン認証を用いることで、ログインが会社のユーザー認証プロセスに統合されます。いったんユーザーが会社のインフラから認証を受ければ、会社のイントラネット上の特定のリンクをクリックするだけで、ユーザーは自動的にログインが可能となります。SAML 2.0を適用するためには、社内のアカウントマネージャーに確認してください。
 
 {% hint style="success" %}
-Top advantage: The platform is integrated into your intranet with. No separate user login is necessary, no additional username and password is required.
+最大の利点: 本プラットフォームは、貴社のイントラネットに統合されます。別のユーザーでログインする必要はなく、追加でユーザーネームやパスワードを入力する必要はありません。
 {% endhint %}
 

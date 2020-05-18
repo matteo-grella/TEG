@@ -1,26 +1,14 @@
-# E-mails Template
+# 事件に関する電子メール情報
 
-## SECURITY INFORMATION
+## セキュリティ情報
 
-![](../.gitbook/assets/securityinformationemail.png)
+事件の影響レベルが低/中程度の場合に、セキュリティ情報が送信されることに注意してください。セキュリティアラートは、事件の影響レベルが高い/極めて高い場合に送信されます。
 
-## ANNOUNCEMENT
+![](../.gitbook/assets/e-mail-security-information.JPG)
 
-![](../.gitbook/assets/announcementemail.png)
+## 通知
 
-## ALERT FOR TRAVELLER
+![](../.gitbook/assets/e-mail-announcement.JPG)
 
-![](../.gitbook/assets/alertfortraveller.png)
 
-## ALERT FOR MANAGER
-
-![](../.gitbook/assets/alertformanager.png)
-
-## SPECIAL ALERT FOR TRAVELLERS
-
-![](../.gitbook/assets/specialalertforreisende.png)
-
-## SPECIAL ALERT FOR MANAGER
-
-![](../.gitbook/assets/specialalertformanager.png)
 

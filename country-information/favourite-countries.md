@@ -1,19 +1,19 @@
 ---
-description: SAVE YOUR COUNTRY AS FAVOURITE
+description: 対象国をお気に入りに追加
 ---
 
-# Favorite Countries
+# お気に入り登録
 
-If you are interested in specific countries, you can save them as favourites. What are the advantages?
+特定の国に関心がある場合、お気に入り登録をすることができます。どのような利点があるのでしょうか？
 
-* **You can access them directly** from the country information page by selecting it from the list of favourites, which is displayed when you click/touch in the search bar on the left of the page. 
-* More importantly, **you can receive country information alerts** if anything happens in the country. Just select “send me an alert”, then choose from which impact level on you wish to receive alerts and “save”. 
-* **You can also receive risk level change alerts** in case the overall country risk level changes, called Risk Level Change Alert. 
-* **You can receive information alert digests** for your favourite countries. Let’s say you want to receive once a week at 9:00am and overview of all events that occurred in the country over the past 7 days. Just go to “Alert digest”, define your individual settings and “save/ update” your favourite. 
+* ページ左側の検索バーをクリックした際に表示される、お気に入りの候補国リストから選択することで、**カントリーリスクページからの直接**アクセスが可能です。
+* さらに重要なこととして、対象国で事件が発生した場合には、その国の**「セキュリティ情報」**を受信します。「アラートを送ってください」を選択し、どの影響度レベルからアラートの受信を希望するかを選び、「保存」します。 
+* お気に入り指定国の **セキュリティ情報ダイジェスト**を受け取ることも可能です。例えば、1週間に1度午前9時に、直近7日間で発生した全ての事件についての概要を入手したい場合、「アラートダイジェスト」から個人設定を行い、お気に入りの「保存/更新」を実行してください。 
+* その国の全体的なリスクレベルに変更があった場合には、**リスクレベル変更アラート**を受け取ることも可能です。
 
-![New Favourite Settings](../.gitbook/assets/newfavouritesettings.png)
+![](../.gitbook/assets/country-information-favorite-countrys.JPG)
 
 {% hint style="warning" %}
-The alerts you receive are only information alerts about events occurring in the country. They include no recommendations and they are not linked to your location. Moreover, all permission levels have access to these settings, including travellers.
+受信するセキュリティ情報は、対象国で発生している事件に関する情報です。地理座標など、特定の渡航者の位置情報とは関連していません。さらに、渡航者を含む全ての権限レベルのユーザーがこれらの設定を行うことができます。
 {% endhint %}
 

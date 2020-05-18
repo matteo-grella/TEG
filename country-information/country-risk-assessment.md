@@ -1,8 +1,10 @@
 ---
-description: Have an overview of the key risks
+description: 主要なリスクの概要を把握するために
 ---
 
-# Country Information
+# カントリーリスク
 
-![](../.gitbook/assets/country-information.png)
+![](../.gitbook/assets/ci-cover%20%282%29.JPG)
+
+
 

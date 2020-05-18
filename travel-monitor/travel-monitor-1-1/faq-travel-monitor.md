@@ -1,36 +1,32 @@
 ---
-description: QUESTIONS ABOUT ALERTING
+description: アラートに関する質問
 ---
 
-# Alerting
+# アラート
 
-## What is the difference between alert and special alert?
+## アラートと特別なアラートの違いとは？
 
-**Alert**: An alert is an email information about an incident that has possible effects on travellers, sites or business activity. Alerts are related to a specific traveller or a company site location. For each incident that triggers an alert, the system sends different emails – one is tailored to the traveller, the other is tailored to the travel manager.
+**アラート**: アラートとは、渡航者、サイトおよび事業活動に影響を及ぼす可能性がある事件を伝える電子メールです。アラートは、特定の渡航者あるいは会社施設の場所に関連するものです。アラート対象の事件ごとに、システムは異なる電子メールを送信します。1つは渡航者向け、もう1つは管理者向けの内容となっています。
 
-**Special alert**: In the event of a special alert, it cannot be ruled out that a traveller is directly affected by a security incident that can pose a threat to life and health. The platform directly contacts affected travellers via phone call in order to detect their status. In addition, the traveller receives the incident information via email, including behavioural guidelines to reduce the risk in the vicinity of the event. For each incident that triggers a special alert, the system sends different emails – one is tailored to the traveller, the other is tailored to the manager and includes continuous status updates.
+**特別なアラート**: 特別なアラートが発信される際には、渡航者が生命や健康に脅威をもたらす治安事件によって、直接的な影響を受けている可能性は否定できません。本プラットフォームは、渡航者の状況を把握するために、影響を受けている渡航者に対して、直接電話で連絡を取ります。さらに、渡航者は事件がもたらすリスクを低減するための行動ガイドラインを含む、事件の情報を電子メールで受信します。特別なアラートの対象となる事件ごとに、システムは異なる電子メールを送信します。1つは渡航者向け、もう1つは管理者向けの内容であり、継続的な更新情報が含まれています。
 
-{% hint style="info" %}
-Please view template examples of alerts and special alerts in the follwing pages.
-{% endhint %}
+## なぜ渡航者Aが特別なアラートのステータスコールを受信し、すぐそばにいる渡航者Bがアラートメールだけを受信するようなことが起きるのですか？
 
-## Why does traveller A receive a special alert status call, while traveller B right next to him receives only an alert email?
+以下に挙げる例のように、状況によって異なる理由が考えられます：
 
-There can be different reasons for a situation like that, for example:
+**シナリオ**: 渡航者AおよびBが共に会議に参加しているものの、両者のロケーションの信頼性が異なるものとします。本プラットフォームは渡航者Aからは到着空港に関する情報が記載されたPNRデータのみを受信し、渡航者Bは、カレンダートラッキング機能を用いて会議施設の正確な位置情報を追加していました。この結果、プラットフォームは渡航者Bからは渡航者Aよりもより正確な渡航データを入手しているため、渡航者A向けに発信されるアラートの半径はより大きくなります。 このシステムは、アラートが発出された事件の影響が及ぶ半径から渡航者Bを除外しますが、渡航者Aの位置情報がより不確かであることから、支援が必要であるかどうかを判断するために、渡航者Aのみに自動的にステータスコールが発信されるのです。
 
-**Scenario 1**: Assuming traveller A and B are at a conference together, but the location confidence of both travellers is different. While the platform only received PNR data with the arrival airport of traveller A, traveller B used the calendar tracking feature and added the exact location of the conference venue. As a result, the platform has more precise travel data for traveller B than for traveller A and hence, determines a larger incident radius for traveller A. While the system can exclude traveller B to be inside the impact radius of the incident that triggered the alerting, it has less precise information for traveller A and thus, in order to find out, if he needs help, triggers the automated status calls
+このシナリオは、複数のパラメーターが、事件の範囲を決定付けていることを説明しています。アラートや特別なアラートの影響が及ぶ半径を形成する最も有力なパラメーターは、事件のインパクトスコア、事件のカテゴリーおよび渡航者のロケーションの信頼性です。設定について不明な点がある場合、またはプラットフォームがどのように機能するかについて興味がある場合には、トラベルモニターのアラート設定内の「影響が及ぶ半径についてのプレビュー」で確認することができます。
 
-**Scenario 2**: Traveller A and B are again at a conference together, but work for different companies, both using the platform. It is highly likely that the alerting settings of both companies vary largely. Company A may be risk-averse, while company B is more prepared to take risks. That means the alerting settings of company A allow for a large number of special alerts, also including incidents with rather moderate severity. Company B on the other hand, prefer to trigger the status detection process and have their travellers called only in the event of critical incidents. These two scenarios shall explain that several parameters determine the incident radius. Among the strongest parameters shaping the radius are the incident impact, the incident category and the traveller location confidence. If you are uncertain about your settings or just curious, how the platform works, you can check and see in the section called “incident radius preview” in the alerting settings of the travel monitor.
+## トラベルモニター内でアラートと特別なアラートを見るにはどうすればよいですか？
 
-## How can I see the alerts and special alerts in the travel monitor?
+特別なアラートは、赤色のフレームのアイコンで視覚化されます。アラートは黄色のフレームのアイコンで示されます。フィルター機能を使用し、特定のアラートや特別なアラートを検索することもできます。
 
-Special alerts are visualised as icons with a red frame. Alerts are visualised as icon with a yellow frame. You also can use the filter to find a specific alert or special alert.
+## 上海に200人が渡航しています。万が一、重大な治安事件が発生した場合、渡航者のステータスを把握するまでにどれだけの時間を要しますか？
 
-## I have 200 travellers in Shanghai. If a critical security incident occurs, how long does it take until I know the status of my travellers?
-
-As soon as the platform detects the incident and it has been verified by the analyst \(generally, the verification takes 1-2 min.\), the platform will immediately start calling your travellers. If you defined in the call settings that your travellers would be called ONCE, you would receive a final status of all 200 travellers within 1-2 minutes. However, usually, it is preferred to have more call attempts as most of the time your travellers will not answer at the first call.
+プラットフォームが事件を検出し、アナリストが確認を終えると（確認作業は通常1〜2分ほど）、プラットフォームから即座に渡航者への電話発信が開始されます。 通話の設定で渡航者が1度だけ電話を受ける設定を行っている場合、200人全ての渡航者の最終的なステータスを1〜2分以内に把握することができます。しかし、通常は、渡航者が最初の呼び出しに応答しないことがほとんどであるため、電話をかける回数を増やすことが望ましいといえます。
 
 {% hint style="info" %}
-For more information, please see the section alerting settings.
+詳細情報については、アラート設定のセクションを参照してください。
 {% endhint %}
 

@@ -1,12 +1,12 @@
 ---
-description: 'LIST VIEW, CHARTS AND MAP VIEW'
+description: リスト、チャートおよびマップによる表示
 ---
 
-# Multiple Views
+# 多画面表示
 
-To make it more intuitive for you to find what you need, the platform provides **multiple views of the events**.
+必要な情報をより直感的に入手するために、本プラットフォームは**事件を多画面で表示**します。
 
-![GLOBAL EVENTS VIEW IN CHARTS MODE](../.gitbook/assets/globaleventsinchartsmode.png)
+![&#x30C1;&#x30E3;&#x30FC;&#x30C8;&#x30E2;&#x30FC;&#x30C9;&#x306B;&#x3088;&#x308B;&#x30B0;&#x30ED;&#x30FC;&#x30D0;&#x30EB;&#x306A;&#x4E8B;&#x4EF6;&#x306E;&#x8868;&#x793A;](../.gitbook/assets/global-events-multiple-views%20%281%29.JPG)
 
-In the list view on the left side of the screen you can see the events \(filtered to your needs\) in the specific order of your choice – by date or by impact. Switch to the chart view, and the same events are displayed in a risk trend line or risk locator. These charts help you identify **overall risk trends and major risk locations**. Alternatively, you can navigate through the events using the map and its **multiple map layers** in the corner of the screen to extract the information you need.
+画面左側のリストビューでは、日付かインパクトかの選択された順序で事件（必要に応じて絞り込み可能）を閲覧することが可能です。チャートビューに変更することで、同じ事件がリスクトレンドラインおよびリスクロケーター内に表示されます。 これらのチャートを活用することで、**全体的なリスクトレンドや主要なリスク発生地**を特定することが可能となります。さらには、マップや画面の隅にある**多層マップ機能**を用いて事件を確認し、必要な情報を入手することも可能です。
 

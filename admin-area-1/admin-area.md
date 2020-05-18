@@ -1,22 +1,24 @@
 ---
-description: 'ADMINISTRATION OF USERS, GROUPS AND YOUR ORGANISATION'
+description: ユーザーおよびグループの管理
 ---
 
-# Admin Area
+# 管理画面
 
-If you are an administrator of the platform you have additional rights. You can **view**, **edit**, **delete**, **add** and **invite** users to the platform. Also view, edit and delete **groups** and edit their permissions are possible. Organisation settings can also be changed.
+プラットフォームの管理者には、追加権限が付与されます。管理者は、**閲覧**、**編集**、**削除**、プラットフォームへのユーザーの**追加**や**招待**が可能です。 
 
-## USERS
+### ユーザー
 
-It is easy to add or invite users. To add a user just click “_Add User_” and type in all the details. With this option you will need to communicate username and password to the user by yourself. If you click “_Invite Users_” the platform will send out an email to all given recipients with an invite to register themselves. This option enables you to add multiple users at once.
+ユーザーの追加や招待は、簡単に行うことができます。「ユーザーを追加する」をクリックし、全ての詳細情報を入力するだけで、ユーザーが追加されます。このオプションにおいては、ユーザー名とパスワードをご自身でユーザーに伝達する必要があります。「ユーザーを招待する」をクリックすることで、プラットフォームから全ての対象者に対して電子メールが送信され、招待を受けた受信者は自身で登録を行います。このオプションにより、一度に複数のユーザーを追加することが可能となります。
 
-**GROUPS**
+### **グループ**
 
-In this section you can edit the existing groups and their permissions. You can also add new groups or delete old ones. If you hit the edit button you can change the name, change the permissions or specify if this group is the default group. Newly registered users are automatically added to the default group. Only one group in each organisation can be the default group. Please note: You are not allowed to delete the default group. Also, you cannot delete a group with existing users linked to this group.
+このセクションにおいて、利用可能なグループの情報を閲覧することができます。新規登録ユーザーは、自動的にデフォルトグループ（通常は渡航者グループ）に追加されます。各組織において、1グループのみがデフォルトグループとなります。
 
-**ORGANISATION**
+{% hint style="warning" %}
+**注意事項:** デフォルトグループを削除することはできません。また、デフォルトグループに関係する既存ユーザーから成るグループを削除することもできません。
+{% endhint %}
 
-In the organisation section you can configure your company settings. In the Login configuration you can view your company login URL for email token login and specify the allowed domains. In the SAML section you can view and configure all settings for SAML. Please find an explanation of the different login mechanisms at the section sign-on interfaces.
+\*\*\*\*
 
-In the general settings you can specify the default language, default time zone, organisation logo and primary color. The default language and time zone represent the company’s standard for all users. Each user can change the language and time zone in their respective user profile individually.
+### \*\*\*\*
 

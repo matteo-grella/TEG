@@ -1,33 +1,33 @@
 ---
-description: QUESTIONS ABOUT ADMIN AREA
+description: 管理画面に関する質問
 ---
 
-# FAQ
+# よくある質問
 
-## How can users get an account?
+## ユーザーがアカウントを取得するには？
 
-There are different ways depending on the login procedure:
+ログイン手順によって、方法が異なります：
 
-1. If the user registers via email token or SAML, the platform will automatically create a new user \(in the standard group\) as soon as the respective user clicks on the link. Please note that the email domain must be white-listed for using email token.
-2. An administrator can simply add/invite users via the admin area. Multiple users can also be invited at once.
+1. ユーザーが電子メールのトークンやSAML経由で登録する場合、本プラットフォームは、ユーザーがリンクをクリックした瞬間に、自動的に新規ユーザーを（標準グループ内に）作成します。 電子メールのトークンを使用する場合、メールのドメイン がスパムメールの対象とならないよう留意してください。 
+2. 管理者は、管理画面からユーザーを追加・招待できます。一度に複数のユーザーを招待することも可能です。
 
-## How can I delete travellers or cancel trips?
+## 渡航者を削除する、あるいは渡航を中止するには？
 
-It depends. Travellers that have been integrated into the platform via automatic transfer of travel data and don’t have a user account in the platform cannot be deleted, neither can their trips. All travellers having an account in the platform can be deleted, including all their trips. Single trips cannot be cancelled, except trips registered via calendar tracking. In this case, the traveller himself needs to delete his calendar event.
+繰り返しとなりますが、状況次第です。渡航データの自動転送により本プラットフォームに統合され、ユーザーアカウントを所持しない渡航者を削除することはできず、その渡航情報も削除できません。本プラットフォームのアカウントを持つ全ての渡航者は、渡航情報も含めて削除が可能です。カレンダートラッキング経由で登録された渡航情報を除き、単一の渡航情報は中止が不可能です。この場合、渡航者自身がカレンダーイベントからデータを削除する必要があります。 
 
-## What does it mean when an email address begins with “temp-email-…”?
+## メールアドレスが「temp-email」から始まっている場合、これは何を意味しますか？
 
-This is not an error. In most cases, this is an email address that is temporary and not yet confirmed. For example, if you log in via email token, receive a link to register, but you never confirm your email with the link, the system will consider your email as temporary email.
+これはエラーではありません。ほとんどの場合、これは一時的かつ未確認のメールアドレスといえます。例えば、電子メールのトークンでログインし、登録用のリンクを受信したものの、リンクから電子メールの確認を行っていない場合、システムはこの電子メールを一時的な電子メールであると判断します。
 
-## How long can I use the link received via email token login?
+## 電子メールのログイントークンは、どのぐらいの期間使用可能ですか？
 
-By default, the link is valid for 24h.
+初期設定において、リンクの有効期限は24時間となっています。
 
-## Why does my colleague have a different language than me?
+## 同僚が異なる言語を使用しているのはなぜですか？
 
-A company can set a default language for all users, but every user can set the preferred language for himself in the user profile.
+企業は全てのユーザーに対して、デフォルトの言語を設定することが可能ですが、各ユーザーは、ユーザープロファイルにおいて優先言語をご自身で設定することができます。
 
-## Why do travellers get emails not in their preferred language?
+## 渡航者が希望しない言語で電子メールを受信するのはなぜですか？
 
-There is only one default language for all users in the platform. If a traveller wants to have a different language, he must have an account in the platform and change the language in the user profile.
+本プラットフォームにおいて、全てのユーザーに対するデフォルトの言語は1つしかありません。渡航者が異なる言語を希望する場合、プラットフォームのアカウントを用意し、ユーザープロファイルから言語設定を変更する必要があります。
 

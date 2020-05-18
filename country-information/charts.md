@@ -1,10 +1,10 @@
 ---
-description: INSIGHT AT A GLANCE
+description: 一目で伝わるインサイト
 ---
 
-# Charts
+# チャート
 
-Charts provide smart graphics for analytical users. Risk lines, forecasts, upcoming events and risk categorisers – all these visualisations help you better understand an overall risk trend from recent months to today and to identify key risks for travellers at a glance.
+分析を希望するユーザーに対して、チャート機能は優れたグラフィックを提供しています。リスクライン、予測、今後発生する事件やリスクカテゴライザーなど、全ての情報が可視化されることで、過去数カ月から今日に至るまでの全体的なリスクトレンドに対する理解が深まり、渡航者も一目で主要なリスクを確認することができます。 
 
-![](../.gitbook/assets/countrycharts.png)
+![](../.gitbook/assets/country-information-charts.JPG)
 

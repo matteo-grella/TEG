@@ -1,10 +1,18 @@
 ---
-description: ALWAYS BE PREPARED
+description: 常に準備を備える
 ---
 
-# Advisory
+# アドバイザリー
 
-Each country has a list of key recommendations that significantly reduce travel risks, if followed. Much the same counts for medical recommendations. Of particular interest is the section “_specific advices_” which provides special recommendations and detailed information about a specific risk prevalent in the respective country.
+各国は渡航リスクを大幅に低減するための主要な推奨事項のリストを備えています。医学的な推奨事項も、ほぼ同様に備わっています。各国で蔓延する特定のリスクに関する詳細情報や特別な推奨事項を提供する「特殊なアドバイス」のセクションは、特に注意すべき内容となっています。
 
-![ADViSORY VIEW](../.gitbook/assets/advisoryview.png)
+![&#x30A2;&#x30C9;&#x30D0;&#x30A4;&#x30B6;&#x30EA;&#x30FC;&#x306E;&#x8868;&#x793A;](../.gitbook/assets/p44-img02_axa.jpg)
+
+
+
+
+
+
+
+
 

@@ -1,42 +1,30 @@
 ---
-description: QUESTIONS ABOUT ASSISTANCE
+description: 支援に関する質問
 ---
 
-# Assistance
+# 支援
 
-## How can I integrate my own 24/7 emergency assistance provider?
+## 特別なアラートを受信しなくても、渡航者が24時間無休対応の緊急連絡先に電話することは可能ですか？
 
-Go to the assistance settings and select “Customer” instead of EXOP. Provide respective emergency contact details and your preferred provider will automatically be contacted in an assistance case.
+可能です。AXAオペレーションセンターは、24時間年中無休で対応いたします。
 
-## Can my travellers call the 24/7 emergency number without receiving a special alert?
+## 渡航者にトラベルモニター経由ではなく直接電子メールを送信するか、あるいは直接電話をかけてもよいですか？
 
-This depends on your assistance provider. It is highly recommended to have a professional 24/7 assistance setup. If you choose EXOP as your provider, the EXOP Operation Centre will be there for you and your travellers 24/7.
+もちろんです。フィルターを使用し、連絡を取りたい渡航者を選択してください。渡航者の連絡先情報から電話または電子メールのアイコンをクリック/タッチし、対象者への電話やメール送信を行ってください。 こうすることで、即座に電話やメール送信が可能となります。
 
-## Can I write an email directly to my travellers out of the travel monitor or make a direct call?
+## トラベルモニター内で渡航者やサイトを見るにはどうすればよいですか？
 
-Yes, select the traveller you want to contact using the filter. Click/touch on the phone or email icon in the traveller contact details, starting your phone or email client. This way, you can call or write an email instantly.
+渡航者のアイコンをクリック/タッチすれば、渡航者のリストが表示されます。サイトのアイコンをクリック/タッチすれば、サイトのリストを確認することができます。
 
-## How can I see my travellers and sites in the travel monitor?
+## 渡航情報の詳細を見ることはできますか？
 
-Click/touch the icon for travellers and the traveller list will be displayed. Click/touch the icon for site and you will have your sites listed.
+可能です。リストあるいはマップから渡航者を選択すれば、目的地、登録された渡航者の位置情報（ホテルなど）、国、座標、各目的地の滞在期間の順番でその後の渡航情報の詳細が表示されます。異なるソース（PNRインターフェースまたはカレンダー登録）からの渡航データは、統合されていません。この機能は間もなく利用可能となる見通しです。
 
-## Can I see details of a trip?
+## アシスタンスプロバイダーが社内の緊急連絡先に電話しても、誰にもつながらなかった場合はどうなりますか？
 
-Yes, if you select a traveller from the list or in the map, the following trip details will be displayed, ordered by stops of the trip: the registered traveller location \(e.g. hotel\), the country, the coordinates and the duration of the respective stop. Please note that travel data from different sources \(PNR interface, calendar or manual registration\) cannot be merged yet. That is a feature to come soon.
+AXAオペレーションセンターが、社内の緊急連絡先への連絡を引き続き試みます。 いずれにしても、渡航者の生命に差し迫った脅威が存在するなか、社内の連絡先とつながらなければ、AXAは生命を救うために支援を行います。
 
-## What happens if the assistance provider calls the company’s internal emergency contacts and no one picks up the phone?
+## 表示されている連絡時間（渡航者への電話）は、どのタイムゾーンに該当しますか?
 
-This depends on the service provider you are using. If you choose EXOP, the Operation Centre will continue to try to contact the internal emergency contacts. In any case, if there is an immediate threat to the life of travellers, and no internal contact can be reached, EXOP will nevertheless support in order to save lives.
-
-## In which time zone is the contact time \(call to travellers\) displayed?
-
-Each user selects the time zone himself in the user profile. That is the time zone displayed in your account.
-
-## Do we have to expect additional costs?
-
-There are no hidden costs. Any costs that may arise in addition to the monthly fee, will be made transparent and must be authorised by the client. Please determine your authorising personnel, who are eligible to order fee-based services in the assistance settings section of the travel monitor. Please check your X-ASSIST contract for case fees.
-
-## Can I use my own medical provider?
-
-Yes, you provide details on your medical service provider with the X-ASSIST contract and EXOP will integrate your provider into the assistance procedures. If you choose a different provider for security assistance than the EXOP, you will have to coordinate the integration of your medical assistance provider with them.
+各ユーザーは、ユーザープロファイルでタイムゾーンを選択します。選択されたタイムゾーンがアカウントに表示されます。
 

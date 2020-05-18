@@ -1,10 +1,14 @@
 ---
-description: VACCINATION OR NO VACCINATION
+description: ワクチン接種の必要性を判断
 ---
 
-# Medical Risks
+# 医療リスク
 
-Medical precautions must begin long before the trip. The platform lists latest medical events and relevant vaccinable and non-vaccinable diseases, so you and your travellers, together with a physician, can decide how to prepare for the journey well in advance. For those who prefer to work with their own medical sources, all medical information can be deactivated. Activation or deactivation refers to medical risk overview, medical advisory and medical map content.
+渡航前には余裕を持って医学的な安全対策を講じる必要があります。本プラットフォームは、医学的な事件や対象国で蔓延するワクチンで予防可能あるいは予防不可能な疾病に関する最新情報をリスト化しており、管理者や渡航者は、医師とともに、十分に余裕を持って渡航準備を進めることができます。独自の医療情報に基づく業務を希望するユーザーは、全ての医療情報を非アクティブ化することも可能です。医療リスクの概要、医療アドバイザリー、医療マップの各コンテンツについて、アクティブ化および非アクティブ化の設定が可能です。
 
-![MEDICAL RISK OVERVIEW](../.gitbook/assets/medicalriskoverview.png)
+![&#x533B;&#x7642;&#x30EA;&#x30B9;&#x30AF;&#x306E;&#x6982;&#x8981;](../.gitbook/assets/p44-img01_axa%20%282%29.jpg)
+
+
+
+
 

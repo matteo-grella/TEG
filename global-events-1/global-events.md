@@ -1,13 +1,13 @@
 ---
-description: REAL-TIME INSIGHT TO RISK ON THE GROUND
+description: 現地で発生しているリスクに関するリアルタイムのインサイト
 ---
 
-# Global Events
+# グローバルな事件
 
-![Real-time insight to risks on the ground](../.gitbook/assets/globaleventsscreen.png)
+![](../.gitbook/assets/ge-cover%20%281%29.JPG)
 
-## KEY FEATURES
+## 主な特徴
 
-* **Events List** - View security events worldwide
-* **Charts View** - List View, Charts and Map View
+* **事件** - 世界中の医療およびセキュリティ上の事件に関する概要
+* **視覚化** -  リスト化、チャートやマップによる表示
 
