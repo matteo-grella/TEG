@@ -10,5 +10,5 @@ Tenga en cuenta que se enviará información de seguridad cuando el impacto del 
 
 ## ANUNCIO
 
-![](../.gitbook/assets/announcement_mail%20%281%29.JPG)
+![](../.gitbook/assets/announcement_mail%20%282%29.JPG)
 
