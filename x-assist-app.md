@@ -1,0 +1,31 @@
+# Travel Eye App
+
+Travel Eye è disponibile anche come **applicazione web basata su browser** e come **applicazione mobile nativa**, fornendovi tutte le potenti funzionalità della versione desktop:
+
+* **Chiamata di emergenza** - se siete in pericolo, potete raggiungere la centrale operativa AXA 24 ore su 24, 7 giorni su 7
+* **Allarmi** - riceverete e-mail che vi informeranno sugli ultimi sviluppi della sicurezza e sugli incidenti in loco
+* **Informazioni sulla sicurezza del viaggio** - potete accedere a tutte le informazioni rilevanti della vostra destinazione di viaggio in qualsiasi momento
+
+![](.gitbook/assets/travel-eye-app%20%282%29.jpg)
+
+## **Applicazione Web basata su Browser**
+
+L'applicazione web basata su browser è l'opzione preferita dalle aziende che generalmente non consentono il download da Play o Apple Store. Senza dover scaricare un'App, gli utenti avranno accesso a tutte le funzionalità tramite il browser, compresa la condivisione della geo-localizzazione e il pulsante di emergenza.
+
+## App Nativa
+
+La Travel Eye App per IOS e Android è disponibile \(Play Store o App Store\) con tutte le funzionalità dell'applicazione desktop TRAVEL EYE.
+
+![](.gitbook/assets/axa-app-store-screenshot.png)
+
+## Attivazione dell'Applicazione
+
+Per attivare l'applicazione, procedere come segue:
+
+1. Effettuate il login sulla piattaforma come fate di solito e aprite il vostro profilo utente. Cliccate su "Mobile App" sul lato sinistro dello schermo.
+2. Installare e attivare l'app sul vostro dispositivo mobile. La schermata di benvenuto dell'app mostra un codice di autorizzazione di 8 lettere.
+3. Inserite il codice nel campo "_Codice di autorizzazione..._" nel vostro profilo utente cliccate su "_Autorizza_". 
+4. Ora siete collegati in modo permanente all'app sul vostro dispositivo mobile.
+
+![](https://github.com/matteo-grella/traveleye_gold/tree/993e93614299268d38d4909e68425b66de360d20/.gitbook/assets/axa-app-travel-eye-user-backend-eng%20%282%29.png)
+
