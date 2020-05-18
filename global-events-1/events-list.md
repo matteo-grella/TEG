@@ -12,7 +12,7 @@ Además, usted y sus viajeros serán alertados por anuncios de próximos eventos
 
 Si está interesado en países específicos, puede guardarlos como favoritos y recibir «información de seguridad» si ocurriera algo en el país.
 
-![](../.gitbook/assets/global-events-list%20%282%29.JPG)
+![](../.gitbook/assets/global-events-list%20%283%29.JPG)
 
 Obviamente, tiene que saber sobre lugares, temas o tiempos específicos: **¿Quiere saber si los viajeros se encuentran ante un peligro de manifestaciones violentas estando en la capital**, o si hay conflictos alrededor de donde se encuentra su proyecto, o en qué estaciones los huracanes provocan inundaciones y destrucción en un destino de viaje específico? **Personalice su búsqueda según sus preguntas específicas** usando y combinando las múltiples opciones de filtros.
 
