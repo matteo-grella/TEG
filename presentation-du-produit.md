@@ -12,7 +12,7 @@ description: GARDEZ UN ŒIL SUR VOS VOYAGEURS
 
 Travel Eye est une **plateforme de gestion des risques** **liés à la mobilité** qui identifie et signale les incidents de sécrurité dans le monde entier, 24 heures sur 24 et 7 jours sur 7, et fournit aux utilisateurs plus de 200 profils de risques pay et risque de ville. En outre, la plateforme comprend divers couches de risques ainsi que des prestataires médicaux dans le monde entier. 
 
-![](.gitbook/assets/travel-eye-cover%20%283%29.JPG)
+![](.gitbook/assets/travel-eye-cover%20%284%29.JPG)
 
 ## PRINCIPALES FONCTIONNALITÉS
 
