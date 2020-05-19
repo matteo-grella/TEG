@@ -12,5 +12,5 @@ description: 個人アカウントを管理する
 
 安全性を高めるために、アカウントの二要素認証を設定することも可能です。さらにユーザーは、ユーザープロファイルにおいて、雇用国を設定することができます。
 
-![](../.gitbook/assets/user-profile-4.jpg)
+![](../.gitbook/assets/user-profile%20%284%29.jpg)
 
