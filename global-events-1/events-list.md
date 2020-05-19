@@ -16,5 +16,5 @@ If you are interested in specific countries, you can save them as favourites and
 
 Of course, you need to find out about specific places, topics and times: **You want to know if your travellers face a risk of violent demonstrations when staying in the capital**, or if there are any clashes in the hinterland where your project site is located, or in what seasons do hurricanes bring flooding and destruction to a specific travel destination? **Target your search according to your specific questions** using and combining the multiple filter options.
 
-![](../.gitbook/assets/global-events-list_2%20%283%29.JPG)
+![](../.gitbook/assets/global-events-list_2%20%282%29.JPG)
 

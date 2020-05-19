@@ -11,7 +11,7 @@ If you are interested in specific countries, you can save them as favourites. Wh
 * You can receive a **security information digest** for your favourite countries. Let’s say you want to receive once a week at 9:00am and overview of all events that occurred in the country over the past 7 days. Just go to “Alert digest”, define your individual settings and “save/ update” your favourite. 
 * You can also receive **risk level change alerts** in case the overall country risk level changes. 
 
-![](../.gitbook/assets/country-information-favorite-countrys%20%282%29.JPG)
+![](../.gitbook/assets/country-information-favorite-countrys%20%281%29.JPG)
 
 {% hint style="warning" %}
 The alerts you receive for the Travel Eye Gold product are only information alerts about events occurring in the country. They are not linked to your specific location e.g. geo-coordinates. Moreover, all permission levels have access to these settings, including travellers.
