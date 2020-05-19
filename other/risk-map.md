@@ -4,13 +4,13 @@ description: TYPES ET CALQUES
 
 # Carte des risques
 
-![](../.gitbook/assets/riskmap%20%283%29.JPG)
+![](../.gitbook/assets/riskmap%20%282%29.JPG)
 
 ## Qu'est-ce que la carte des risques ?
 
 La carte des risques est la clé de voûte des informations sur les risques pays dynamiques de la plateforme.
 
-![](../.gitbook/assets/rm_img01%20%285%29.jpg)
+![](../.gitbook/assets/rm_img01%20%284%29.jpg)
 
 En zoomant sur la carte, on peut voir les cotes de risque EXOP même en dessous du niveau des pays. Il montre le risque des régions et des provinces, **jusqu'aux villes et même aux districts urbains**. En examinant de plus près les grandes villes, on peut voir des zones marquées en violet **qui présentent un risque plus élevé pour les voyageurs**. Vous pouvez choisir d'afficher différentes informations, **types de cartes** et **calques**.
 
