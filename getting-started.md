@@ -8,7 +8,7 @@ Ci sono diverse caratteristiche di base che sono sempre visibili nella parte sup
 
 Iniziate ad utilizzare la piattaforma controllando la barra di navigazione. Cliccate/toccate la rispettiva icona per accedere direttamente al **Pulsante di emergenza**, alla **Mappa dei Rischi**, agli **Eventi Globali**, alle **Informazioni sui Paesi** e **Rete Medica**. Infine, è possibile accedere al proprio profilo per amministrare il proprio account personale o quello di altri, a seconda delle proprie autorizzazioni.
 
-![](.gitbook/assets/getting-started_img01%20%285%29.jpg)
+![](.gitbook/assets/getting-started_img01%20%284%29.jpg)
 
 ### **PULSANTE DI EMERGENZA** 
 

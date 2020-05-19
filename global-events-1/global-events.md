@@ -4,7 +4,7 @@ description: APPROFONDIMENTI SUI RISCHI IN LOCO - IN TEMPO REALE
 
 # Eventi Globali
 
-![](../.gitbook/assets/ge-cover%20%288%29.JPG)
+![](../.gitbook/assets/ge-cover%20%287%29.JPG)
 
 ## CARATTERISTICHE CHIAVE
 
