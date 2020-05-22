@@ -10,7 +10,7 @@ description: 渡航者への情報伝達に
 
 ### 商品概要
 
-Travel Eye Gold is a **mobility risk management platform** that identifies and reports security incidents worldwide 24/7 and provides users with over 200 country and city risk profiles.  Moreover, the platform includes various risk layers and medical providers globally.
+Travel Eye Goldは、24時間年中無休で世界中で発生した治安事件を特定し、レポーティングを行う**モビリティ・リスクマネジメントプラットフォーム**であり、200カ国以上のカントリーリスクやシティリスクに関する分析情報をユーザーに提供しています。さらに、本プラットフォームには、様々なリスクレイヤーや世界中の医療機関に関する情報も掲載されています。 
 
 ![](.gitbook/assets/travel-eye-cover%20%283%29.jpg)
 
