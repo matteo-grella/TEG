@@ -1,5 +1,5 @@
 ---
-description: 渡航者に情報を伝達する
+description: 渡航者への情報伝達に
 ---
 
 # TRAVEL EYE GOLD
