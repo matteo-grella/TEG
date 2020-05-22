@@ -1,5 +1,5 @@
 ---
-description: INFORM YOUR TRAVELLERS
+description: 渡航者に情報を伝達する
 ---
 
 # TRAVEL EYE GOLD
@@ -16,21 +16,21 @@ Travel Eye Gold is a **mobility risk management platform** that identifies and r
 
 ### 
 
-## KEY FEATURES
+## 主な機能
 
-To summarize, Travel Eye Gold:
+Travel Eye Goldにより以下のことが可能になります:
 
-* Identifies and minimises travel risks
-* Finds relevant security incidents rapidly with the help of artificial intelligence
-* Sends security information and tailored digests as e-mail to keep you informed about latest security developments 
-* Will be displayed in the language your employees feel comfortable with
+* 渡航リスクを特定し、最小限にとどめる
+* 人工知能を活用し、渡航者に影響を及ぼす治安事件を迅速に特定する
+* 治安情報やカスタマイズされたダイジェスト情報を電子メールで受信し、最新の治安動向を常に把握する
+* 従業員の方が慣れ親しんだ言語での表示
 
-## INTENTION OF THIS GUIDE
+## 本マニュアルの目的
 
-The following guide intends to describe key functions and features of Travel Eye Gold, the mobility risk management platform. It is mainly written for administrators of the platform but can also be useful for users that have less extensive permissions. After each section, you will find FAQs which might directly answer your questions.
+本マニュアルは、モビリティ・リスクマネジメントプラットフォームであるTravel Eye Goldの重要な機能および特徴を伝えることを目的としています。主にプラットフォームの管理者向けに書かれていますが、権限を有しないユーザーにとっても役立つ内容となっています。各セクションの最後には、ユーザーからの質問と返答をまとめた「よくある質問」のページを設けています。
 
 {% hint style="info" %}
-Please note: this is a user guide and does not provide a detailed technical description of the platform’s alerting process or the onboarding/authentication/login procedures. 
+注意事項: 本マニュアルはユーザーガイドであり、プラットフォームのアラートプロセスや導入・認証・ログイン手続に関する技術的な詳細情報を提供するものではありません。 
 {% endhint %}
 
 ![](.gitbook/assets/splashscreen.jpg)
