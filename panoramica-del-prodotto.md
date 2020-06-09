@@ -27,3 +27,5 @@ La seguente guida intende descrivere le funzioni e le caratteristiche principali
 Nota bene: questa è una guida per l'utente e non fornisce una descrizione tecnica dettagliata del processo di allerta della piattaforma o delle procedure di onboarding/autenticazione/login.
 {% endhint %}
 
+![](.gitbook/assets/pt-alerting.jpg)
+
