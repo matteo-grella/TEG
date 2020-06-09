@@ -31,3 +31,5 @@ The following guide intends to describe key functions and features of Travel Eye
 Please note: this is a user guide and does not provide a detailed technical description of the platform’s alerting process or the onboarding/authentication/login procedures. 
 {% endhint %}
 
+![](.gitbook/assets/en-alerting.jpg)
+
