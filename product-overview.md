@@ -31,3 +31,5 @@ La siguiente guía pretende describir las funciones y características principal
 **Tenga en cuenta**: Ésta es una guía de usuario y no proporciona una descripción técnica detallada del proceso de alerta de la plataforma o de los procedimientos de incorporación, autenticación o inicio de sesión.
 {% endhint %}
 
+![](.gitbook/assets/es-alerting.jpg)
+
