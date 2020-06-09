@@ -6,7 +6,7 @@ description: 渡航者への情報伝達に
 
 ## 紹介動画
 
-{% embed url="https://www.youtube.com/watch?v=MR\_SWtD5zRM" caption="" %}
+{% embed url="https://vimeo.com/369967825" %}
 
 ### 商品概要
 
@@ -33,5 +33,5 @@ Travel Eye Goldにより以下のことが可能になります:
 注意事項: 本マニュアルはユーザーガイドであり、プラットフォームのアラートプロセスや導入・認証・ログイン手続に関する技術的な詳細情報を提供するものではありません。 
 {% endhint %}
 
-![](.gitbook/assets/splashscreen.jpg)
+![](.gitbook/assets/jp-alerting.jpg)
 
