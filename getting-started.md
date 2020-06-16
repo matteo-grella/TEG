@@ -10,7 +10,7 @@
 
 ![](.gitbook/assets/getting-started_img01%20%285%29.jpg)
 
-### 緊急ボタンおよ
+### 緊急ボタン
 
 支援を要請する
 
