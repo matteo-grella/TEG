@@ -6,5 +6,5 @@
 
 ![](../.gitbook/assets/information.jpg)
 
-## 通知
+## お知らせ
 
