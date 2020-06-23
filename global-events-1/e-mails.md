@@ -8,3 +8,5 @@
 
 ## お知らせ
 
+![](../.gitbook/assets/announcement.jpg)
+
